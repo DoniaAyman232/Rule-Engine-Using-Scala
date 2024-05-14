@@ -1,0 +1,6 @@
+May 09, 2024 10:36:29 AM Main$ logMessage
+INFO: 2024-05-09T08:36:29.205Z INFO This is an informational message
+May 09, 2024 10:36:29 AM Main$ logMessage
+WARNING: 2024-05-09T08:36:29.234Z WARNING This is a warning message
+May 09, 2024 10:36:29 AM Main$ logMessage
+SEVERE: 2024-05-09T08:36:29.236Z SEVERE This is a severe message

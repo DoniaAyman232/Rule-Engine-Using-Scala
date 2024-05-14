@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = J:\iti intake 44 2\scala\project\engine\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = J:\iti intake 44 2\scala\project\engine\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Removing the temporary directory used for backing up class files: J:\iti intake 44 2\scala\project\engine\project\target\scala-2.12\sbt-1.0\classes.bak
